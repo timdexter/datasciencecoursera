@@ -1,4 +1,4 @@
-## Course Project
+# Course Project
 
 Create one R script called run_analysis.R that does the following.
 
@@ -8,11 +8,11 @@ Create one R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## Dependencies
+# Dependencies
 
  run_analysis.R depends on  data.table and reshape2
 
-## Steps to work on this course project
+# Steps to work on this course project
 
 1. Download the data files and place them into a folder called 'data'. You'll have a ```UCI HAR Dataset``` folder.
 2. Place ```run_analysis.R``` in the parent folder of the data folder and set it as your working directory.
