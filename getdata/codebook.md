@@ -54,7 +54,7 @@ There are 5 parts:
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## How run_analysis.R implements the above steps:
+## How run_analysis.R works
 
 * Load both test and train data
 * Load the features and activity labels.
