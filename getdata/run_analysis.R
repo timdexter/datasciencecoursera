@@ -5,6 +5,10 @@
 ## 4. Appropriately labels the data set with descriptive activity names.
 ## 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+## Author : Tim Dexter
+## Date: 21-Jan-15
+## v4
+
 ## Script Start
 
 # Load: activity labels
